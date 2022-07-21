@@ -542,6 +542,10 @@ section .container {
 .testimonials .testimonials-carousel,
 .testimonials .testimonials-slider {
   overflow: hidden;
+  
+}
+.testimonials{
+  display: none;
 }
 
 .testimonials .testimonial-item {
